@@ -1,0 +1,4 @@
+- Change JSP to html
+- Add required validation in every form input
+- handling fetching data with dummy path
+- Handling error with textContext
